@@ -1,5 +1,5 @@
 {
-    "name": "Oscar-Bot",
+    "name": "Akmal-Botz",
     "version": "07.06.98",
     "description": "Customizable WhatsApp Bot",
     "depecrated": false,
@@ -29,7 +29,7 @@
     ],
     "homepage": "https://github.com/Alpiii22",
     "author": {
-        "name": "Muhammad Jarot"
+        "name": "Akmal"
     },
     "repository": {
         "type": "git",
